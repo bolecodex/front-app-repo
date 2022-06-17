@@ -1,1 +1,1 @@
-# Amazon EKS Demo 
+# Amazon EKS Lab
